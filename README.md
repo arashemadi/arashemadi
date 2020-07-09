@@ -10,4 +10,4 @@ A little bit more about me:
 - 🔗 Follow me on 🐦 [Twitter](https://twitter.com/araschem) to learn more about my coding journey!
 - 📫 How to reach me: ✉️ [Hey Mail](mailto:araschem@hey.com), 🌎 [My Website](https://arashemadi.com)
 - ⚡️ Fun fact: I'm also a self-taught classical and pop guitar player 🎸
-- 💾 I code in: JavaScript, PHP, and their libraries and frameworks
+- ☕️ I code in: JavaScript, PHP, and their libraries and frameworks
