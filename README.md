@@ -8,6 +8,6 @@ A little bit more about me:
 - 👨🏻‍💻 I’m currently working at [Elite Digital](https://elitedigitalagency.com/)
 - 💡 I’m currently learning FSJS, DS and Algos
 - 🔗 Follow me on 🐦 [Twitter](https://twitter.com/araschem) to learn more about my coding journey!
-- 🌎 [My Website](https://arashemadi.com)
+- 🌎 To learn more about me, visit [My Website](https://arashemadi.com)
 - ⚡️ Fun fact: I'm also a self-taught classical and pop guitar player 🎸
 - ☕️ I code using JS, TS, Node, React, PHP, Laravel, and more!
